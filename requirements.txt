@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-genai
+scikit-learn
+joblib
+hindsight-client
+numpy
+xgboost
